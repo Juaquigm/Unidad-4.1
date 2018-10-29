@@ -1,5 +1,6 @@
 #Ejercicio 4.3
 import random
+import math
 ahorcado = ['''
       +---+
       |   |
